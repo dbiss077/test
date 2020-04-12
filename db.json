@@ -215,10 +215,10 @@
     "choice3": "[3, 2, 1]",
     "choice4": "None of the above",
     "answer": {
-        "correctChoice":"",
+        "correctChoice":"[1, 2, 3]",
         "pointsAwarded": 1
       },
-      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is"
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is [1, 2, 3]"
     },
   {
     "q": " What will be the output of the following code?",
