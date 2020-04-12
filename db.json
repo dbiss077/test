@@ -1,0 +1,239 @@
+{
+"Quiz1": {
+  "MCQuestion": [{
+      "q": "java.util.Collections is a?",
+      "choice1": "Class",
+      "choice2": "Interface",
+      "choice3": "Object",
+      "choice4": "None of the above",
+      "answer": {
+        "correctChoice": "Class",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Class"
+    },
+    {
+      "q": "Methods such as reverse, shuffle are offered in? ",
+      "choice1": "Object",
+      "choice2": "Collection",
+      "choice3": "Collections",
+      "choice4": "Apache Commons Collections",
+      "answer": {
+        "correctChoice":"Collections",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Collections."
+    },
+    {
+      "q": "Which of those allows duplicate elements? ",
+      "choice1": "Set",
+      "choice2": "List",
+      "choice3": "All",
+      "choice4": "None of the above",
+      "answer": {
+        "correctChoice":"List",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is List."
+    },
+    {
+      "q": "When you try to run Python scripts, a multi-step process begins. In this process the interpreter performs three steps?1. Ship off the code for execution.2. Process the statements of your script in a sequential fashion.3. Compile the source code to an intermediate format known as bytecode.",
+      "choice1": " 3 → 2 → 1",
+      "choice2": " 1 → 3 → 2",
+      "choice3": "1 → 2 → 3",
+      "choice4": "2 → 3 → 1",
+      "answer": {
+        "correctChoice":"2 → 3 → 1",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is 2 → 3 → 1"
+    },
+    {
+      "q": "What is the output of the below code snippet?#include<stdio.h> main() {for()printf('Hello');}",
+      "choice1": "Infinite loop",
+      "choice2": "Prints “Hello” once",
+      "choice3": "No output",
+      "choice4": "Compile error",
+      "answer": {
+        "correctChoice":"Compile error",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect" : "Sorry, that is incorrect! The correct answer is Compile error."
+    },
+    {
+      "q": " Which of the following is a logical NOT operator?",
+      "choice1": "!",
+      "choice2": "&&",
+      "choice3": "&",
+      "choice4": "All of the above",
+      "answer": {
+        "correctChoice":"!",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is !"
+    },
+       {
+      "q":"Which of the following statement can be used to free the allocated memory?",
+      "choice1": "remove(var-name);",
+      "choice2": "free(var-name);",
+      "choice3": "vanish(var-name);",
+      "choice4": "erase(var-name);",
+      "answer": {
+        "correctChoice":"free(var-name);",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is free(var-name);"
+    },
+     {
+      "q": "In C, what is the correct hierarchy of arithmetic operations?",
+      "choice1": "*/ + -",
+      "choice2": "* +- /",
+      "choice3": "/ *+ -",
+      "choice4": "+ - / *",
+      "answer": {
+        "correctChoice":"/ *+ -",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is / *+ -"
+    }
+  ],
+
+  "TFQuestion": [{
+      "q": "In Python 3, the maximum value for an integer is 263 - 1",
+      "Tchoice": "True",
+      "Fchoice": "False",
+      "answer": {
+        "correctChoice":"False",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is False."
+    },
+    {
+      "q": "Arrays can also be created and initialize as in above statement.",
+      "Tchoice": "True",
+      "Fchoice": "False",
+      "answer": {
+        "correctChoice":"True",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True."
+    },
+    {
+      "q": "Java programming is not statically-typed, means all variables should not first be declared before they can be used",
+      "Tchoice": "True",
+      "Fchoice": "False",
+      "answer": {
+        "correctChoice":"False",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is False."
+    },
+    {
+      "q": "The Python interpreter takes the code that you write and converts it to the language that the computer’s hardware understands.Is this statement True or False? ",
+      "Tchoice": "True",
+      "Fchoice": "False",
+      "answer": {
+        "correctChoice":"True",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True."
+    },
+    {
+      "q": "There is a function that allows you to run Python modules without importing them first.Is this statement True or False?",
+      "Tchoice": "True",
+      "Fchoice": "False",
+      "answer": {
+        "correctChoice":"True",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True."
+    }
+  ],
+
+  "FillIn": [{
+      "q": "Fill in the blank. The main difference between a module and a script is that modules are meant to be _____, while scripts are made to be directly executed.",
+      "option1": "",
+      "answer": {
+        "correctChoice":"Imported",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Imported."
+    },
+    {
+      "q": " Fill in the Blank. Which allows the storage of a null key and null values?",
+      "option1": "",
+      "answer": {
+        "correctChoice":"HashMap",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is HashMap."
+    },
+    {
+      "q": "The absense of value in JavaScript means ",
+      "option1": "",
+      "answer": {
+        "correctChoice":"null",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is null."
+    },
+    {
+      "q": "A string, number and ____ are primitive types in Javascript ",
+      "option1": "",
+      "answer": {
+        "correctChoice":"Boolean",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Boolean."
+    }
+  ],
+
+  "ShortAnswer": [{
+    "q": " What programming language uses // as Comments?",
+    "usertext": "",
+    "answer":{
+    "correctChoice":"Java",
+    "pointsAwarded": 1
+  },
+  "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Java."
+  },
+  {
+    "q":"Write the code in python to output “Hello",
+    "usertext":"",
+    "answer":{
+    "correctChoice":"print('Hello World')",
+    "pointsAwarded": 1
+  },
+  "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True. It returns true."
+  }
+  ],
+    "ImageQ": [{
+    "q": " What will be the output of the following code?",
+    "img": "q1img1.png",
+    "choice1": "[1, 2, 3]",
+    "choice2": "Runtime Exception - classCastException",
+    "choice3": "[3, 2, 1]",
+    "choice4": "None of the above",
+    "answer": {
+        "correctChoice":"",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is"
+    },
+  {
+    "q": " What will be the output of the following code?",
+    "img": "q1img2.png",
+    "choice1": "No",
+    "choice2": "Error",
+    "choice3": "Yes",
+    "choice4": "None above the above",
+    "answer": {
+        "correctChoice":"",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is No."
+    }
+  ]
+}
+}
+ 
